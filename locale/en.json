@@ -1,3 +1,7 @@
 {
-  "create": "Create"
+  "common": {
+    "add": "Add",
+    "create": "Create",
+    "save": "Save"
+  }
 }
