@@ -1,7 +1,16 @@
 {
-  "common": {
-    "add": "Añadir",
-    "create": "Crear",
-    "save": "Guardar"
-  }
+ "AAAAA": "aaaa",
+ "add": "Añadir",
+ "cancel": "Cancelar",
+ "client": {
+  "error": "Error del cliente\n (mejorado)"
+ },
+ "client error": "test2",
+ "common": {
+  "add": "Añadir",
+  "create": "Crear",
+  "new": "ttt",
+  "save": "Guardar",
+  "sync": "testo"
+ }
 }
